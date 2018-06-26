@@ -11,4 +11,4 @@ Step 4 - Select the material made by you(on which the 360 degree image is added)
 Step 5 - Drag and drop the C# file on the Assets folder in your project and add this file on your Main Camera.<br>
 Step 6 - Now build it in your phone. The script will only run if the phone has gyro sensor.<br>
 <br><br>
-# P.S. = Check in the phone specifications that if your phone has gyro sensor or not.
+# P.S. :- Check in the phone specifications that if your phone has gyro sensor or not.
